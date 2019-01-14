@@ -16,3 +16,5 @@ elif operator=='*':
 else:
     division=float(first / second)
     print('the division is',division)
+
+print('please give valid input')
