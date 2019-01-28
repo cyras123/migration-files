@@ -1,1 +1,1 @@
-files for mimgration data
+files for migration data
